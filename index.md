@@ -1,3 +1,7 @@
+---
+layout: default
+title: Казаки Донцы, Уральцы, Кубанцы, Терцы. Очерки изъ исторіи, etc
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
